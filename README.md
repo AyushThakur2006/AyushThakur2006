@@ -2,7 +2,7 @@
 <!-- GitHub Profile README for Ayush -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&lines=Hi+👋%2C+I'm+Ayush+Thakur;I+am+a+Full-Stack+Developer+💻;Working+with+React%2C+Node.js%2C+Express+%26+MongoDB;Always+learning+and+building!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=900&center=true&vCenter=true&multiline=false&lines=Hi,+I'm+Ayush+Thakur;Full+Stack+Web+Developer+(MERN);Always+learning+and+building!" alt="Typing SVG" />
 </p>
 
 ---
