@@ -15,7 +15,12 @@
 - 🎓 I'm a Computer Science student
 - 🌱 Currently learning Full-Stack Web Development (MERN)
 - ⚡ Passionate about creating user-friendly applications
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com)
+### 📫 Reach Me Out
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourusername)
 
 ---
 
