@@ -37,5 +37,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushthakur&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=ayushthakur&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushThakur2006&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AyushThakur2006&theme=tokyonight" /></p>
