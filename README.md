@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=900&center=true&vCenter=true&multiline=false&lines=Hi,+I'm+Ayush+Thakur;Full+Stack+Web+Developer+(MERN);Always+learning+and+building!" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="1000" height="300" alt="Web Development Animation">
+</p>
 
 ---
 
@@ -35,5 +38,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushthakur&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushthakur&theme=tokyonight" alt="Ayush's GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=ayushthakur&theme=tokyonight" />
