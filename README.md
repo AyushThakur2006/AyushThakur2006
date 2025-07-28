@@ -42,5 +42,4 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushThakur2006&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AyushThakur2006&show_icons=true&theme=tokyonight&cache_seconds=1" /></p>
