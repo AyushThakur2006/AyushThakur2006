@@ -1,45 +1,43 @@
-
-<!-- GitHub Profile README for Ayush -->
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=900&center=true&vCenter=true&multiline=false&lines=Hi,+I'm+Ayush+Thakur;Full+Stack+Web+Developer+(MERN);Always+learning+and+building!" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="300" alt="Web Development Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hello%2C+I'm+Ayush+Thakur;A+Web+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast+%7C+CS+Undergrad" alt="Typing GIF" />
 </p>
 
----
-
-### 🧑‍💻 About Me
-
-- 🎓 I'm a Computer Science student
-- 🌱 Currently learning Full-Stack Web Development (MERN)
-- ⚡ Passionate about creating user-friendly applications
-### 📫 Reach Me Out
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourusername)
 
 ---
 
-### 🚀 Skills & Tech Stack
+## 👋 About Me
 
-#### 🌐 Web Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+Hi, I'm **Ayush Thakur** — a passionate **Full-Stack Web Developer**, **CS Undergrad**, and **UI/UX Enthusiast**.  
+Currently building **VitalEase**, a healthcare management system.
 
-#### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 Learning: `React`, `Express`, `MongoDB`, `Java`, `DSA`, `UI/UX`
+- 🚀 Always excited to learn & build impactful tech solutions.
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyushThakur2006&show_icons=true&theme=tokyonight&cache_seconds=1" /></p>
+<p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,figma,git,github" />
+</p>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushThakur2006&show_icons=true&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Gmail: [workayush2006@gmail.com](mailto:workayush2006@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ayush-thakur2006](https://www.linkedin.com/in/ayush-thakur2006)
+- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/+91-8219492059) 
+
+---
