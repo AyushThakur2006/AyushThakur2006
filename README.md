@@ -38,6 +38,4 @@ Currently building **VitalEase**, a healthcare management system.
 
 - 📧 Gmail: [workayush2006@gmail.com](mailto:workayush2006@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ayush-thakur2006](https://www.linkedin.com/in/ayush-thakur2006)
-- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/+91-8219492059) 
-
 ---
