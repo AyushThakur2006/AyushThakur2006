@@ -28,8 +28,8 @@ Currently building **VitalEase**, a healthcare management system.
 
 ## 📊 GitHub Stats
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushThakur2006&show_icons=true&theme=react&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushThakur2006&theme=react" />
 </p>
 
 ---
